@@ -1,2 +1,2 @@
 # Zindi_Challenge_Sendy_Logistics
-Zindi Challenge 
+This is Group work on Zindi Challenge 
